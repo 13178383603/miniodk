@@ -1,0 +1,4 @@
+# miniodk needs no third-party packages — only the Python standard library.
+# This file exists so that `pip install -r requirements.txt` succeeds anyway.
+#
+# If you want the local brain, install Ollama separately:  https://ollama.com
