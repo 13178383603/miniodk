@@ -159,6 +159,19 @@ model when the data must not leave the machine.
 
 ---
 
+## Skills / playbooks
+
+Field notes from running this on a **2013 dual-core i3** — measured numbers, real error text, and
+the pitfalls nobody writes down:
+
+| Playbook | Use it when |
+|:---------|:------------|
+| [windows-cpu-ai-agent.md](skills/windows-cpu-ai-agent.md) | Running models/agents on Windows without a GPU |
+| [self-reflection-loop.md](skills/self-reflection-loop.md) | Making a model grade and improve its own output |
+| [windows-desktop-automation.md](skills/windows-desktop-automation.md) | Driving real applications from an agent |
+
+---
+
 ## Licence
 
 MIT — do whatever you want.
